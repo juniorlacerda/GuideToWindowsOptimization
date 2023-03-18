@@ -1,4 +1,4 @@
-![Windows logo](https://cdn.discordapp.com/attachments/745657576779415666/1086782151866994788/windows.png)
+![Windows logo](https://cdn.discordapp.com/attachments/745657576779415666/1086782666499690536/windows.png)
 # Guide to Windows Optimization
 Windows Optimization Guide: Tips and Tricks to Improve Performance
 
