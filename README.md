@@ -4,6 +4,8 @@
 
 **Note:** This guide aims to assist you in optimizing your Windows system to reduce issues such as lag, stuttering, and others. It is important to keep in mind that any changes made to your system are your own responsibility and may come with associated risks. Therefore, it is strongly recommended that you exercise caution and fully understand the potential impact of each optimization before implementing it.
 
+---
+
 ### To get started, follow these steps to create a System Restore Point on Windows:
 
 1. Click on the Start button and type **"Create a restore point"** in the search bar.
