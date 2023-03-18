@@ -8,7 +8,7 @@ Windows Optimization Guide: Tips and Tricks to Improve Performance
 
 1. Click on the Start button and type "Create a restore point" in the search bar.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8d3bc63-188f-4704-8669-e392e7c5f85a/Untitled.png)
+    ![Create Restore Point](https://cdn.discordapp.com/attachments/745657576779415666/1086782151598542918/restore_point.png)
     
 2. Click on the "Create a restore point" option from the search results.
 3. The System Properties window will open. Click on the "Create" button under the "System Protection" tab.
@@ -25,7 +25,7 @@ Creating a System Restore Point is a good idea before making any major changes t
 
 1. Open the "Services" application by pressing "Windows key + R" and typing "services.msc" in the Run dialog box. Click "OK" or press "Enter."
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d2f9c23-733d-41bc-9441-a51fb84d0238/Untitled.png)
+    ![Services.msc](https://cdn.discordapp.com/attachments/745657576779415666/1086782152152199239/services_msc.png)
     
 2. In the "Services" window, locate the service you want to disable. You can sort the list by "Startup Type" to find services that start automatically.
 3. Right-click on the service and select "Properties."
