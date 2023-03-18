@@ -116,8 +116,10 @@ Remember to exercise caution when running these commands and ensure you understa
     `powercfg -h off`
 7. **Disable system activity monitoring:**
     - Open PowerShell as administrator and run the command:
-    `Get-Service -Name 'DiagTrack' | Stop-Service`
-    `Set-Service -Name 'DiagTrack' -StartupType Disabled`
+    ```
+    Get-Service -Name 'DiagTrack' | Stop-Service
+    Set-Service -Name 'DiagTrack' -StartupType Disabled
+    ```
 
 Remember to use caution when running PowerShell commands and ensure you understand what they do before executing them.
 
